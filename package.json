@@ -4,7 +4,7 @@
   "description": "Premium Ukay-Ukay Online Store",
   "scripts": {
     "dev": "vite",
-    "build": "tsc -b && vite build",
+    "build": "vite build",
     "preview": "vite preview"
   },
   "keywords": ["ukay", "thrift", "preloved"],
